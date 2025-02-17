@@ -136,7 +136,8 @@ Example patterns:
 
 ## License
 
-MIT License - see [LICENSE](LICENSE) file
+## License  
+This project is licensed under the [MIT License](../LICENSE.md).
 
 ## Acknowledgements
 
