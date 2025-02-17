@@ -1,0 +1,19 @@
+# Ignore virtual environments
+venv/
+.env
+__pycache__/
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore dataset & image folders (stored in different locations)
+mostoutput/
+cutouts/
+
+# Ignore all large FITS and text files (if needed)
+*.fits
+*.txt
+
+# Ignore Conda-generated cache files
+*.lock
+.DS_Store
