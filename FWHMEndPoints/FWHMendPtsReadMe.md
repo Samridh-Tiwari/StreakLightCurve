@@ -14,7 +14,7 @@ This final stage in our asteroid analysis pipeline:
 3. Visualizes motion through oriented aperture markers
 4. Highlights ephemeris-vs-observation discrepancies
 
-![Example Cutout](../FWHMEndPoints/cutouts/K11M00U/ztf_20220623205451_000578_zr_c07_o_q4_scimrefdiffimg_cutout.png)
+
 
 ## ⚙️ Installation
 
@@ -127,7 +127,6 @@ fwhm_pixels = fwhm_arcsec / pixel_scale
 - Width = FWHM diameter
 - Spaced every FWHM distance along streak
 
-![Aperture Diagram](https://via.placeholder.com/400x200.png/000000/FFFFFF?text=FWHM-Spaced+Apertures+Along+Streak)
 
 ## 🚀 Current Approach and Challenges
 
