@@ -9,6 +9,10 @@ __pycache__/
 # Ignore dataset & image folders (stored in different locations)
 mostoutput/
 cutouts/
+cutouts2RUNpartial/
+cutouts3runradecdirect/
+cutouts4RunDirect/
+cutoutsRUN1withGeocentricCode/
 
 # Ignore all large FITS and text files (if needed)
 *.fits

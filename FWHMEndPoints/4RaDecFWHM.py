@@ -12,7 +12,7 @@ from matplotlib.patches import Polygon
 from astropy import units as u
 
 # Configuration
-LOCATION = "500"  # Geocentric (Earth)
+LOCATION = "I41"  # ZTF observatory code
 CUTOUT_SIZE = 100  # Default cutout size in pixels (will auto-expand if needed)
 CUTOUTS_DIR = "cutouts"  # Main output directory for all cutouts
 
